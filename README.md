@@ -6,7 +6,7 @@ A build of the Adobe Flash Player plugin (Installation Level: Advanced)
 # Development Progress
 [--------------------] 0%
 # Legal
-Adobe Flash CS6, Copyright 2012, Adobe Systems Incorperated.
+Adobe Flash CS6, Copyright (c) 2012, Adobe Systems Incorperated.
 In honor of Adobe Flash Player, 1996-2021
 This project is intended for personal use and was not made for piracy, as all Adobe themes have been removed for the sake of copyright.
 Non-Copyrighted Material 2025, GhostyBoi
