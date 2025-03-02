@@ -4,7 +4,7 @@ Adobe Flash CS6 without the Adobe stuff as they discontinued the thing
 Flash CS6 (Installation Level: Beginners)
 A build of the Adobe Flash Player plugin (Installation Level: Advanced)
 # Development Progress
-[--------------------] 0%
+CANCELLED DUE TO ME NOT KNOWING HOW ANY OF THIS WORKS
 # Legal
 Adobe Flash CS6, Copyright (c) 2012, Adobe Systems Incorperated.
 In honor of Adobe Flash Player, 1996-2021
